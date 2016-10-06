@@ -10,4 +10,15 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <name>Nintendo8BitSerialController</name>
+    <!-- https://mvnrepository.com/artifact/org.rxtx/rxtx -->
+    <dependencies>
+        <dependency>
+            <groupId>org.rxtx</groupId>
+            <artifactId>rxtx</artifactId>
+            <version>2.1.7</version>
+        </dependency>
+    </dependencies>
+
+
 </project>

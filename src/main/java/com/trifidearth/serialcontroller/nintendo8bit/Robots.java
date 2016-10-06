@@ -1,4 +1,4 @@
-package com.trifidearth.nintendo;
+package com.trifidearth.serialcontroller.nintendo8bit;
 
 import java.awt.AWTException;
 import java.awt.Robot;
